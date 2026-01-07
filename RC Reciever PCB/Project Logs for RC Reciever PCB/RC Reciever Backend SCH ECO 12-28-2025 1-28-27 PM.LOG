@@ -1,0 +1,6 @@
+Remove Pin=U2-3 From Net=CE
+Remove Pin=U2-4 From Net=CSN
+Remove Pin=U2-5 From Net=SCK
+Remove Pin=U2-6 From Net=MOSI
+Remove Pin=U2-7 From Net=MISO
+Change Component Designator: OldDesignator=U3 NewDesignator=U?

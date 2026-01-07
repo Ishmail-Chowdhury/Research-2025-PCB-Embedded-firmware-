@@ -1,0 +1,72 @@
+Change Component Footprint: Designator=H1 Old Footprint=TE_644884-3 New Footprint=AMPHENOL_10129378-903004BLF
+Change Component Footprint: Designator=H2 Old Footprint=TE_644884-3 New Footprint=AMPHENOL_10129378-903004BLF
+Change Component Footprint: Designator=H3 Old Footprint=TE_644884-3 New Footprint=AMPHENOL_10129378-903004BLF
+Change Component Footprint: Designator=H4 Old Footprint=TE_644884-3 New Footprint=AMPHENOL_10129378-903004BLF
+Change Component Footprint: Designator=H5 Old Footprint=TE_644884-3 New Footprint=AMPHENOL_10129378-903004BLF
+Change Component Footprint: Designator=H6 Old Footprint=TE_644884-3 New Footprint=AMPHENOL_10129378-903004BLF
+Change Component Footprint: Designator=H7 Old Footprint=TE_644884-3 New Footprint=AMPHENOL_10129378-903004BLF
+Change Component Footprint: Designator=H8 Old Footprint=TE_644884-3 New Footprint=AMPHENOL_10129378-903004BLF
+Change Component Comment : Designator=H1 Old Comment=644884-3 New Comment=10129378-903004BLF
+Change Component Comment : Designator=H2 Old Comment=644884-3 New Comment=10129378-903004BLF
+Change Component Comment : Designator=H3 Old Comment=644884-3 New Comment=10129378-903004BLF
+Change Component Comment : Designator=H4 Old Comment=644884-3 New Comment=10129378-903004BLF
+Change Component Comment : Designator=H5 Old Comment=644884-3 New Comment=10129378-903004BLF
+Change Component Comment : Designator=H6 Old Comment=644884-3 New Comment=10129378-903004BLF
+Change Component Comment : Designator=H7 Old Comment=644884-3 New Comment=10129378-903004BLF
+Change Component Comment : Designator=H8 Old Comment=644884-3 New Comment=10129378-903004BLF
+Change component parameters: Designator = "H1" ("H1"); Footprint = "TE_644884-3"; UniqueID = "\RYPGGITO" ("\RYPGGITO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (FCI)'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10129378-903004BLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H2" ("H2"); Footprint = "TE_644884-3"; UniqueID = "\PUAOJWYH" ("\PUAOJWYH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (FCI)'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10129378-903004BLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H3" ("H3"); Footprint = "TE_644884-3"; UniqueID = "\AUOZXOXY" ("\AUOZXOXY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (FCI)'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10129378-903004BLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H4" ("H4"); Footprint = "TE_644884-3"; UniqueID = "\IVPVIGBP" ("\IVPVIGBP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (FCI)'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10129378-903004BLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H5" ("H5"); Footprint = "TE_644884-3"; UniqueID = "\TJFXWTUE" ("\TJFXWTUE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (FCI)'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10129378-903004BLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H6" ("H6"); Footprint = "TE_644884-3"; UniqueID = "\YPLYRLLJ" ("\YPLYRLLJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (FCI)'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10129378-903004BLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H7" ("H7"); Footprint = "TE_644884-3"; UniqueID = "\VTMXVHPA" ("\VTMXVHPA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (FCI)'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10129378-903004BLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H8" ("H8"); Footprint = "TE_644884-3"; UniqueID = "\OCAYHNDC" ("\OCAYHNDC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (FCI)'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10129378-903004BLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

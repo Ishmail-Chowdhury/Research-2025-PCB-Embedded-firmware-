@@ -1,0 +1,137 @@
+Removed Pin From Net: NetName=SDA Pin=I2C-1
+Removed Pin From Net: NetName=SCL Pin=I2C-2
+Removed Pin From Net: NetName=TX0 Pin=P9-1
+Removed Pin From Net: NetName=CH7 Pin=P9-2
+Removed Pin From Net: NetName=RX1 Pin=P10-1
+Removed Pin From Net: NetName=CH8 Pin=P10-2
+Removed Member From Class: ClassName=RC Reciever SchDoc Member=I2C
+Removed Member From Class: ClassName=RC Reciever SchDoc Member=P9
+Removed Member From Class: ClassName=RC Reciever SchDoc Member=P10
+Change Component Footprint: Designator=H1 Old Footprint=JST-S3B-XH-A(LF)(SN)_V New Footprint=TE_644884-3
+Change Component Footprint: Designator=H2 Old Footprint=JST-S3B-XH-A(LF)(SN)_V New Footprint=TE_644884-3
+Change Component Footprint: Designator=H3 Old Footprint=JST-S3B-XH-A(LF)(SN)_V New Footprint=TE_644884-3
+Change Component Footprint: Designator=H4 Old Footprint=JST-S3B-XH-A(LF)(SN)_V New Footprint=TE_644884-3
+Change Component Footprint: Designator=H5 Old Footprint=JST-S3B-XH-A(LF)(SN)_V New Footprint=TE_644884-3
+Change Component Footprint: Designator=H6 Old Footprint=JST-S3B-XH-A(LF)(SN)_V New Footprint=TE_644884-3
+Change Component Footprint: Designator=H7 Old Footprint=JST-S3B-XH-A(LF)(SN)_V New Footprint=TE_644884-3
+Change Component Footprint: Designator=H8 Old Footprint=JST-S3B-XH-A(LF)(SN)_V New Footprint=TE_644884-3
+Change Component Footprint: Designator=J1 Old Footprint=PHOE-1803277_V New Footprint=HARWIN_M20-9990246
+Change Component Comment : Designator=J1 Old Comment=1803277 New Comment=M20-9990246
+Change Component Comment : Designator=H1 Old Comment=S3B-XH-A(LF)(SN) New Comment=644884-3
+Change Component Comment : Designator=H2 Old Comment=S3B-XH-A(LF)(SN) New Comment=644884-3
+Change Component Comment : Designator=H3 Old Comment=S3B-XH-A(LF)(SN) New Comment=644884-3
+Change Component Comment : Designator=H4 Old Comment=S3B-XH-A(LF)(SN) New Comment=644884-3
+Change Component Comment : Designator=H5 Old Comment=S3B-XH-A(LF)(SN) New Comment=644884-3
+Change Component Comment : Designator=H6 Old Comment=S3B-XH-A(LF)(SN) New Comment=644884-3
+Change Component Comment : Designator=H7 Old Comment=S3B-XH-A(LF)(SN) New Comment=644884-3
+Change Component Comment : Designator=H8 Old Comment=S3B-XH-A(LF)(SN) New Comment=644884-3
+Change Managed Component Library Link : Designator=H1 Old VaultGUID=AD415D08-3BC3-4724-A6E7-EC268F702BF6 New VaultGUID= Old ItemGUID=806E796D-7C9A-499C-BB74-6C3FA100E6B6 New ItemGUID= Old RevisionGUID=B330A36C-1A75-46E5-BC38-AA37A5339A96 New RevisionGUID=
+Change Managed Component Library Link : Designator=H2 Old VaultGUID=AD415D08-3BC3-4724-A6E7-EC268F702BF6 New VaultGUID= Old ItemGUID=806E796D-7C9A-499C-BB74-6C3FA100E6B6 New ItemGUID= Old RevisionGUID=B330A36C-1A75-46E5-BC38-AA37A5339A96 New RevisionGUID=
+Change Managed Component Library Link : Designator=H3 Old VaultGUID=AD415D08-3BC3-4724-A6E7-EC268F702BF6 New VaultGUID= Old ItemGUID=806E796D-7C9A-499C-BB74-6C3FA100E6B6 New ItemGUID= Old RevisionGUID=B330A36C-1A75-46E5-BC38-AA37A5339A96 New RevisionGUID=
+Change Managed Component Library Link : Designator=H4 Old VaultGUID=AD415D08-3BC3-4724-A6E7-EC268F702BF6 New VaultGUID= Old ItemGUID=806E796D-7C9A-499C-BB74-6C3FA100E6B6 New ItemGUID= Old RevisionGUID=B330A36C-1A75-46E5-BC38-AA37A5339A96 New RevisionGUID=
+Change Managed Component Library Link : Designator=H5 Old VaultGUID=AD415D08-3BC3-4724-A6E7-EC268F702BF6 New VaultGUID= Old ItemGUID=806E796D-7C9A-499C-BB74-6C3FA100E6B6 New ItemGUID= Old RevisionGUID=B330A36C-1A75-46E5-BC38-AA37A5339A96 New RevisionGUID=
+Change Managed Component Library Link : Designator=H6 Old VaultGUID=AD415D08-3BC3-4724-A6E7-EC268F702BF6 New VaultGUID= Old ItemGUID=806E796D-7C9A-499C-BB74-6C3FA100E6B6 New ItemGUID= Old RevisionGUID=B330A36C-1A75-46E5-BC38-AA37A5339A96 New RevisionGUID=
+Change Managed Component Library Link : Designator=H7 Old VaultGUID=AD415D08-3BC3-4724-A6E7-EC268F702BF6 New VaultGUID= Old ItemGUID=806E796D-7C9A-499C-BB74-6C3FA100E6B6 New ItemGUID= Old RevisionGUID=B330A36C-1A75-46E5-BC38-AA37A5339A96 New RevisionGUID=
+Change Managed Component Library Link : Designator=H8 Old VaultGUID=AD415D08-3BC3-4724-A6E7-EC268F702BF6 New VaultGUID= Old ItemGUID=806E796D-7C9A-499C-BB74-6C3FA100E6B6 New ItemGUID= Old RevisionGUID=B330A36C-1A75-46E5-BC38-AA37A5339A96 New RevisionGUID=
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=AD415D08-3BC3-4724-A6E7-EC268F702BF6 New VaultGUID= Old ItemGUID=4F2C051E-8F8A-4147-AE72-99F89DBB6F1D New ItemGUID= Old RevisionGUID=71A5D3BE-FCEE-4E58-9006-53CAF474513B New RevisionGUID=
+Change component parameters: Designator = "H1" ("H1"); Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\TIOQMEHY" ("\TIOQMEHY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "644884-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H2" ("H2"); Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\DUNJKKMF" ("\DUNJKKMF")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "644884-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H3" ("H3"); Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\YLQCSNDV" ("\YLQCSNDV")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "644884-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H4" ("H4"); Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\QPCXDQPC" ("\QPCXDQPC")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "644884-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H5" ("H5"); Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\ZPRUNKIW" ("\ZPRUNKIW")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "644884-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H6" ("H6"); Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\IGOJOBQE" ("\IGOJOBQE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "644884-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H7" ("H7"); Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\QUWMWREQ" ("\QUWMWREQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "644884-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "H8" ("H8"); Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\UPFLXYTM" ("\UPFLXYTM")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "644884-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/644884-3/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "PHOE-1803277_V"; UniqueID = "\AOVAVZXM" ("\AOVAVZXM")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "M20-9990246"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(HARWIN_M20-9990246)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M20-9990246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(HARWIN_M20-9990246)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M20-9990246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P3(HARWIN_M20-9990246)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M20-9990246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX1 Pin=P1-1
+Added Pin To Net: NetName=CH8 Pin=P1-2
+Added Pin To Net: NetName=TX0 Pin=P2-1
+Added Pin To Net: NetName=CH7 Pin=P2-2
+Added Pin To Net: NetName=SDA Pin=P3-1
+Added Pin To Net: NetName=SCL Pin=P3-2
+Added Member To Class: ClassName=RC Reciever SchDoc Member=Component P1 M20-9990246
+Added Member To Class: ClassName=RC Reciever SchDoc Member=Component P2 M20-9990246
+Added Member To Class: ClassName=RC Reciever SchDoc Member=Component P3
